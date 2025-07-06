@@ -3,13 +3,13 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-  "dev": "astro dev",
-  "start": "astro dev",
-  "build": "astro build",
-  "preview": "astro preview",
-  "astro": "astro",
-  "new-post": "node --env-file=.env generate-post.mjs"
-},
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "new-post": "node generate-post.mjs"
+  },
   "dependencies": {
     "@astrojs/mdx": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
