@@ -1,6 +1,6 @@
 ---
-title: ""Decode the Future: Artificial Intelligence in HealthCare""
-description: "Un resumen del artículo sobre "Decode the Future: Artificial Intelligence in HealthCare"."
+title: "Decode the Future: Artificial Intelligence in HealthCare"
+description: "Un resumen del artículo sobre: Decode the Future: Artificial Intelligence in HealthCare."
 pubDate: 2025-07-06
 author: "Blog Automatizado"
 tags: ["tecnología", "programación", "ia"]
