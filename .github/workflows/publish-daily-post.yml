@@ -28,6 +28,7 @@ jobs:
       - name: Generar nuevo post
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: npm run new-post # Crearemos este script a continuación
 
       - name: Commit y Push del nuevo post
